@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gocql/gocql"
-	"github.com/relops/cqlc/cqlc"
-	"github.com/relops/cqlc/integration"
+	"github.com/qtabot/cqlc/cqlc"
+	"github.com/qtabot/cqlc/integration"
 	"log"
 	"os"
 )

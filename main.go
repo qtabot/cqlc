@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/jessevdk/go-flags"
-	"github.com/relops/cqlc/generator"
+	"github.com/qtabot/cqlc/generator"
 	"log"
 	"os"
 )

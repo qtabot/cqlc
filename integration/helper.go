@@ -3,7 +3,7 @@ package integration
 import (
 	"fmt"
 	"github.com/gocql/gocql"
-	"github.com/relops/cqlc/cqlc"
+	"github.com/qtabot/cqlc/cqlc"
 	"log"
 	"os"
 )
