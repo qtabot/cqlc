@@ -2,7 +2,7 @@ package generator
 
 import (
 	"fmt"
-	"github.com/gocql/gocql"
+	"github.com/qtabot/gocql"
 	"sort"
 	"strings"
 )
@@ -75,7 +75,7 @@ var literalTypes = map[ColumnDataType]string{
 }
 
 var customImportPaths = map[string]string{
-	"gocql.UUID": "github.com/gocql/gocql",
+	"gocql.UUID": "github.com/qtabot/gocql",
 	"*inf.Dec":   "speter.net/go/exp/math/dec/inf",
 }
 

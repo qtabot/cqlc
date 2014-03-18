@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/gocql/gocql"
+	"github.com/qtabot/gocql"
 	"github.com/qtabot/cqlc/cqlc"
 	"github.com/qtabot/cqlc/integration"
 	"log"

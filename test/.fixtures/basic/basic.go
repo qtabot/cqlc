@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/gocql/gocql"
 	"github.com/qtabot/cqlc/cqlc"
 	"github.com/qtabot/cqlc/integration"
+	"github.com/qtabot/gocql"
 	"log"
 	"math"
 	"os"

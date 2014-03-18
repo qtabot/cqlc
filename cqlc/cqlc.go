@@ -17,7 +17,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/gocql/gocql"
+	"github.com/qtabot/gocql"
 	"log"
 	"reflect"
 	"speter.net/go/exp/math/dec/inf"

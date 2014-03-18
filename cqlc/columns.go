@@ -1,7 +1,7 @@
 package cqlc
 
 import (
-	"github.com/gocql/gocql"
+	"github.com/qtabot/gocql"
 	"speter.net/go/exp/math/dec/inf"
 	"time"
 )
